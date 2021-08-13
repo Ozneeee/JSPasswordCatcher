@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inp {
+    width: 30vw;
+    height: 10vh;
+    font-size: 25px;
+}
+
+.mdp {
+    color: white;
+    font-size: 22px;
+    margin: 10px;
+}
