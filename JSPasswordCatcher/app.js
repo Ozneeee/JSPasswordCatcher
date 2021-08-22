@@ -1,6 +1,6 @@
 const inp = document.querySelector('.inp');
 
-inp.addEventListener('keyapp', function(e){
+inp.addEventListener('keyup', function(e){
     console.log(inp.value);
 })
 
